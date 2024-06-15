@@ -1,7 +1,7 @@
-import AdminPage from './component/adminpage'
+import AdminPage from './component/admin page/adminpage'
 import './App.css';
 import { Route, Routes } from 'react-router-dom';
-import EditCoinInfo from './component/editCoin';
+import EditCoinInfo from './component/editPAge/editcoinInfo';
 
 function App() {
  
